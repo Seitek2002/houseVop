@@ -1,0 +1,27 @@
+.room__title {
+    font-weight: 700;
+    font-size: 36px;
+    color: #d4c17f;
+    margin-bottom: 100px;
+}
+
+.room__name {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 24px;
+    color: #ffffff;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    margin: 0;
+}
+
+.room__box {
+    position: relative;
+    margin: 30px 20px 0 0;
+}
+
+.room__content {
+    display: flex;
+    flex-wrap: wrap;
+}

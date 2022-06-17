@@ -1,0 +1,23 @@
+.features {
+    margin: 120px 0;
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.features__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.features__box {
+    text-align: center;
+    width: 193px;
+    margin: 0 35px;
+}
+
+.features__description {
+    margin-top: 53px;
+}

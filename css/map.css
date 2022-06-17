@@ -1,0 +1,19 @@
+.map {
+    margin-top: 180px;
+}
+
+.map__content {
+    display: flex;
+    justify-content: center;
+}
+
+.map__bishkek {
+    width: 100%;
+}
+
+.map__title {
+    font-weight: 700;
+    font-size: 36px;
+    color: #d4c17f;
+    margin-bottom: 100px;
+}

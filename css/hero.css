@@ -1,0 +1,39 @@
+.hero__title {
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    color: #d4c17f;
+    margin: 0 auto;
+    width: 556px;
+}
+
+.hero__scroll {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.hero__bottom {
+    display: flex;
+    justify-content: center;
+}
+
+.hero__info {
+    margin: 0 50px;
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.hero {
+    background: url("../img/hero-bg.png") center;
+    padding-top: 296px;
+    padding-bottom: 74px;
+}
+
+.hero__icon {
+    margin-right: 16px;
+}
